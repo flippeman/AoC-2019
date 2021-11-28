@@ -1,5 +1,5 @@
 var fs = require('fs');
-var entries = fs.readFileSync('01/input.txt').toString().split("\r\n");
+var entries = fs.readFileSync('1/input.txt').toString().split("\r\n");
 
 
 var sum = 0;
