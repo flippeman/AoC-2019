@@ -18,7 +18,6 @@ while (true) {
     pos += 4;
 }
 
-console.log(entries);
 console.log(entries[0]);
 
 
